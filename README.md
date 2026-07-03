@@ -53,4 +53,12 @@ Die 3 Monster haben einen eigenen dunklen Eisberg-Vollrahmen. Das Pack allein ze
 
 ---
 
+## Weitere Packs der Reihe
+
+Teil meiner selbstgebauten Custom-Card-Reihe für MD Pro 3:
+- 🧊 **Eisberg** (dieses Pack) – WASSER / Tiefenbeschwörung
+- 🌑 **[Void](https://github.com/MasterSimon31/Void-Card)** – Dark-Fantasy-Archetyp ums verdeckte Verbannen
+
+---
+
 Viel Spaß! Feedback willkommen.
