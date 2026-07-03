@@ -37,4 +37,20 @@ ein (Position sperren + Effekte annullieren).
 **Kernidee:** Beschwöre deine Monster aus dem Deck, indem du tief „tauchst" (Karten verbannst),
 und friere das Gegnerfeld Stück für Stück mit Eis-Zählmarken ein.
 
+---
+
+## Eigener Eisberg-Look (optional)
+
+Die 3 Monster haben einen eigenen dunklen Eisberg-Vollrahmen. Das Pack allein zeigt sie im
+**Standard-Rahmen** – wer die Optik will, macht zusätzlich:
+
+1. **[`eisberg-overframe.zip`](eisberg-overframe.zip)** herunterladen und entpacken (3 PNGs).
+2. Die 3 Dateien (`99900019.png`, `99900020.png`, `99900021.png`) nach
+   `<MD-Pro-3-Ordner>\Picture\OverFrame\` kopieren.
+3. Spiel neu starten – die Eisberg-Monster erscheinen jetzt im eigenen Rahmen.
+
+*(Rein optisch, ändert nichts am Spiel. Die Einzelbilder liegen auch im Ordner [`OverFrame/`](OverFrame).)*
+
+---
+
 Viel Spaß! Feedback willkommen.
