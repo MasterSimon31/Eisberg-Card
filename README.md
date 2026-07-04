@@ -37,8 +37,17 @@ ein (Position sperren + Effekte annullieren).
 **Kernidee:** Beschwöre deine Monster aus dem Deck, indem du tief „tauchst" (Karten verbannst),
 und friere das Gegnerfeld Stück für Stück mit Eis-Zählmarken ein.
 
-> Die Karten bringen ihren eigenen **Eis-Look** schon mit (Monster im dunklen
-> Eisberg-Rahmen) – kein Extra-Download nötig.
+## Eigener Eisberg-Look (optional, empfohlen)
+
+MD Pro 3 baut Karten immer aus seinem Standard-Rahmen + Artwork zusammen. Für den vollen
+dunklen **Tiefenbeschwörungs-Look** der 3 Monster gibt es deshalb ein kleines Extra:
+
+1. **[`eisberg-overframe.zip`](eisberg-overframe.zip)** herunterladen und entpacken (3 PNGs).
+2. Die 3 Dateien nach `<MD-Pro-3-Ordner>\Picture\OverFrame\` kopieren.
+3. Spiel neu starten – die Monster erscheinen im eigenen dunklen Eisberg-Rahmen.
+
+*(Rein optisch, ändert nichts am Spiel. Ohne das Extra zeigen die Monster ihr Artwork im
+normalen Rahmen.)*
 
 ---
 
