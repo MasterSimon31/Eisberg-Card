@@ -56,6 +56,7 @@ normalen Rahmen.)*
 Teil meiner selbstgebauten Custom-Card-Reihe für MD Pro 3:
 - 🧊 **Eisberg** (dieses Pack) – WASSER / Tiefenbeschwörung
 - 🌑 **[Void](https://github.com/MasterSimon31/Void-Card)** – Dark-Fantasy-Archetyp ums verdeckte Verbannen
+- ✨ **[Astrala](https://github.com/MasterSimon31/Astrala-Card)** – 4-Element-Feen-Archetyp mit Material-Flexibilität
 
 ---
 
